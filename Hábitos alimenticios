@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Hábitos Alimenticios Saludables</title>
+    <style>
+        body {
+            background-color: #fff6f0;
+            font-family: Arial;
+            margin: 20px;
+        }
+         
+            color: #2E8B57;
+        
+        table {
+            
+        
+        
+            border:  #2E8B57;
+       
+            
+        }
+        th {
+            background-color: #2E8B57;
+            color: rgb(255, 255, 255);
+        }
+        marquee {
+            background-color: #2E8B57;
+            color: rgb(255, 255, 255);
+            
+            
+        }
+    </style>
+</head>
+<body>
+    <h1>HABITOS ALIMENTICIOS</h1>
+    <h1>Que son los hábitos alimenticios? </h1>
+    <h1>Los hábitos alimenticios se refieren a los patrones y elecciones
+         que una persona hace en su dieta diaria. Estos incluyen 
+         qué alimentos se consumen, cuándo se comen y en qué cantidad.
+          La repetición de acciones constituye un hábito, y comer
+         bien, sano y natural puede constituirse
+          en un hábito, como también puede serlo comer mal</h1>
+
+    <marquee behavior="scroll" direction="left"> Habitos alimenticios para una vida saludable</marquee>
+
+    <h2>Componentes de una Dieta Saludable</h2>
+    <table>
+        <tr>
+            <th>Componente</th>
+            <th>Descripción</th>
+            <th>Ejemplos</th>
+        </tr>
+        <tr>
+            <td>Frutas y Verduras</td>
+            <td>Ricas en vitaminas, minerales y fibra.</td>
+            <td>Manzanas, zanahorias, espinacas, plátanos</td>
+        </tr>
+        <tr>
+            <td>Proteínas</td>
+            <td>Importantes para el crecimiento y la reparación de tejidos.</td>
+            <td>Carne magra, pescado, huevos, legumbres</td>
+        </tr>
+        <tr>
+            <td>Carbohidratos Complejos</td>
+            <td>Proveen energía.</td>
+            <td>Granos enteros, arroz integral, avena</td>
+        </tr>
+        <tr>
+            <td>Grasas Saludables</td>
+            <td>Esenciales para el funcionamiento del cerebro y la absorción de vitaminas.</td>
+            <td>Aguacate, nueces, aceite de oliva</td>
+        </tr>
+        <tr>
+            <td>Agua</td>
+            <td>Vital para mantener la hidratación y el buen funcionamiento del cuerpo.</td>
+            <td>Agua potable</td>
+        </tr>
+    </table>
+
+    <h2>Consejos para Mejores Hábitos Alimenticios</h2>
+    <table>
+        <tr>
+            <th>Consejo</th>
+            <th>Descripción</th>
+        </tr>
+        <tr>
+            <td>Planificación</td>
+            <td>Planifica tus comidas y meriendas para asegurarte de que sean equilibradas y variadas.</td>
+        </tr>
+        <tr>
+            <td>Evita Alimentos Procesados</td>
+            <td>Reduce el consumo de alimentos procesados y azúcares añadidos.</td>
+        </tr>
+        <tr>
+            <td>Variedad</td>
+            <td>Incluye una variedad de alimentos en tu dieta para obtener todos los nutrientes necesarios.</td>
+        </tr>
+        <tr>
+            <td>Porciones</td>
+            <td>alimentarte con porciones que sean buenas para tu cuerpo.</td>
+        </tr>
+        <tr>
+            <td>Hidratarse</td>
+            <td>Toma mucha agua ya que es importante, tu cuerpo se conforma por agua.</td>
+        </tr>
+    </table>
+
+    <marquee behavior="scroll" direction="right">Los habitos alimenticios te acompañan en la vida diaria</marquee>
+</body>
+</html>
